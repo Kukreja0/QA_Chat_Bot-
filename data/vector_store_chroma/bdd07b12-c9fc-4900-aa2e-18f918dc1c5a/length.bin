@@ -1,0 +1,9 @@
+means we can process streaming video in real-time with
+less than 25 milliseconds of latency. Furthermore, YOLO
+achieves more than twice the mean average precision of
+other real-time systems. For a demo of our system running
+in real-time on a webcam please see our project webpage:
+http://pjreddie.com/yolo/.
+Second, YOLO reasons globally about the image when
+1
+arXiv:1506.02640v5  [cs.CV]  9 May 2016
